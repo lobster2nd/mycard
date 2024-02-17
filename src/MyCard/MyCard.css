@@ -1,0 +1,42 @@
+div.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-color: rgb(150, 150, 150);
+    border-style: solid;
+    border-radius: 10px;
+    max-width: 400px;
+    margin-bottom: 10px;
+
+}
+
+div.header {
+    padding: 10px;
+
+    font-size: 24px;
+}
+
+div.body {
+    padding-body: 10px;
+}
+
+.title {
+
+    font-size: 30px;
+    margin-bottom: 10px;
+
+}
+
+.subtitle {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 400px;
+}
+
+div.active {
+    background-color: black;
+    color: white;
+}
